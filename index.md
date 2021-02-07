@@ -14,7 +14,7 @@
 
 象棋系列：象棋学士（打谱软件）、象棋棋力测试（macOS）、象棋水平测试（iOS）。
 
-国际象棋：国际象棋PGN阅读器（Chess PGN Viewer）（macOS）、iPGNViewer (iOS)
+国际象棋：国际象棋PGN阅读器（Chess PGN Viewer）（macOS）、iPGNViewer (iOS)。
 
 扑克游戏：拖拉机。
 
