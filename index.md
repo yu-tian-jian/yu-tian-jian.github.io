@@ -14,7 +14,7 @@
 
 象棋系列：象棋学士（打谱软件）、象棋棋力测试（macOS）、象棋水平测试（iOS）。
 
-国际象棋：国际象棋PGN阅读器（Chess PGN Viewer）
+国际象棋：国际象棋PGN阅读器（Chess PGN Viewer）（macOS）、iPGNViewer (iOS)
 
 扑克游戏：拖拉机。
 
@@ -239,7 +239,7 @@ xdp是自定义格式，适应所有特殊棋谱（如5个兵在同一条线上�
 
 ![图标](ChessPGN.png)
 
-包括 iPad/iPhone 和 iMac版本
+国际象棋PGN阅读器 (Chess PGN Viewer) 是 macOS 版本，iPGNViewer 是 iPad/iPhone （iOS）版本。
 
 国际象棋PGN阅读器用于打开PGN格式的棋谱文件，单步或自动演示棋手对战过程。
 
