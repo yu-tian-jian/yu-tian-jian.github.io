@@ -1,6 +1,6 @@
 ## 欢迎访问yutianjian的中文网页
 
-### 电子邮件: yu_tian_jian@163.com
+### 电子邮件: yu_tian_jian@163.com  或 yu_tian_jian@sina.cn
 
 #### [欢迎访问我的英文网页](https://yutianjian.github.io)
 
