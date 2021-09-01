@@ -127,6 +127,11 @@ PBN是一种通用桥牌记录格式，有大量的PBN桥牌文件资源。
 
 桥牌PBN格式阅读和制作器即可以阅读（打开）pbn格式的桥牌文件，演示打牌过程；也可以制作PBN桥牌文件。
 
+- 如何将PBN文件添加到iPhone/iPad中的“桥牌PBN格式阅读和制作器”，以便用App进行阅读。
+1. 将设备连接到电脑。
+2. 如果您的苹果电脑macOS系统是较早前的版本，打开电脑上的iTunes，找到共享文件选项，找到"桥牌PBN格式阅读和制作器"，添加播放列表文件到文件夹。
+3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“桥牌PBN格式阅读和制作器”的共享文件夹，具体方法，请 [下载macOS如何实现iPhone/iPad文件共享功能](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
+
 ## (3) 桥牌队式赛计分程序（Bridge team score）
 
 ![图标](BridgeTeam.png)
@@ -260,6 +265,11 @@ xdp是自定义格式，适应所有特殊棋谱（如5个兵在同一条线上�
 ![图标](ChessPGN.png)
 
 国际象棋大亨是macOS版本的，iOS 版本的名称是国际象棋大师，主要功能是国际象棋PGN阅读与制作，可以阅读PGN格式的国际象棋棋谱文件，并对棋谱（包括变着部分）进行演示，同时提供训练模式，用于练习。 还可以制作、保存PGN格式的棋谱文件，具有显示和插入评注的功能，相当于具有打谱功能。
+
+- 如何将PGN文件添加到iPhone/iPad中的“国际象棋PGN阅读与制作”，以便用App进行阅读。
+1. 将设备连接到电脑。
+2. 如果您的苹果电脑macOS系统是较早前的版本，打开电脑上的iTunes，找到共享文件选项，找到"国际象棋PGN阅读与制作"，添加播放列表文件到文件夹。
+3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“国际象棋PGN阅读与制作”的共享文件夹，具体方法，请 [下载macOS如何实现iPhone/iPad文件共享功能](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
 
 特点：
 
