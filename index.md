@@ -130,7 +130,7 @@ PBN是一种通用桥牌记录格式，有大量的PBN桥牌文件资源。
 - 如何将PBN文件添加到iPhone/iPad中的“桥牌PBN格式阅读和制作器”，以便用App进行阅读。
 1. 将设备连接到电脑。
 2. 如果您的苹果电脑macOS系统是较早前的版本，打开电脑上的iTunes，找到共享文件选项，找到"桥牌PBN格式阅读和制作器"，添加播放列表文件到文件夹。
-3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“桥牌PBN格式阅读和制作器”的共享文件夹，具体方法，请 [下载macOS如何实现iPhone/iPad文件共享功能](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
+3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“桥牌PBN格式阅读和制作器”的共享文件夹，具体方法，请[下载macOS如何实现iPhone/iPad文件共享功能](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
 
 ## (3) 桥牌队式赛计分程序（Bridge team score）
 
@@ -189,6 +189,11 @@ PBN是一种通用桥牌记录格式，有大量的PBN桥牌文件资源。
 ![图标](sgfreader.png)
 
 围棋SGF阅读器是专为围棋狗（打谱软件）配套开发的，用于在iPhone或iPad上阅读由围棋狗导出的SGF文件。
+
+- 如何将SGF文件添加到iPhone/iPad中的“围棋SGF阅读器”，以便用App进行阅读。
+1. 将设备连接到电脑。
+2. 如果您的苹果电脑macOS系统是较早前的版本，打开电脑上的iTunes，找到共享文件选项，找到"围棋SGF阅读器"，添加播放列表文件到文件夹。
+3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“围棋SGF阅读器”的共享文件夹，具体方法，请[下载macOS如何实现iPhone/iPad文件共享功能](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
 
 ## (8) 象棋学士
 
@@ -269,7 +274,7 @@ xdp是自定义格式，适应所有特殊棋谱（如5个兵在同一条线上�
 - 如何将PGN文件添加到iPhone/iPad中的“国际象棋PGN阅读与制作”，以便用App进行阅读。
 1. 将设备连接到电脑。
 2. 如果您的苹果电脑macOS系统是较早前的版本，打开电脑上的iTunes，找到共享文件选项，找到"国际象棋PGN阅读与制作"，添加播放列表文件到文件夹。
-3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“国际象棋PGN阅读与制作”的共享文件夹，具体方法，请 [下载macOS如何实现iPhone/iPad文件共享功能](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
+3. 如果您的苹果电脑是macOS Catalina 或 Big Sur或后续版本，您可以直接使用“访达”将播放列表文件添加到iPhone/iPad中的“国际象棋PGN阅读与制作”的共享文件夹，具体方法，请[下载macOS如何实现iPhone/iPad文件共享功能](https://TVPlayerSupport.github.io/Playlist/macOSiTunesFileShare.pdf) 
 
 特点：
 
