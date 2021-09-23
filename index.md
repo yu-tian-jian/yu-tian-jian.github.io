@@ -8,7 +8,7 @@
 
 ### 苹果手机平板（iOS）与苹果电脑（macOS）Apps
 
-桥牌系列：
+#### 桥牌系列
 
 (1) 桥牌做庄练习 (macOS、iOS)
 
@@ -16,7 +16,7 @@
 
 (3) 桥牌PBN阅读与制作器等 (macOS、iOS)
 
-围棋系列：
+#### 围棋系列
 
 (1) 围棋狗（打谱软件）(macOS、iOS)
 
@@ -26,7 +26,7 @@
 
 (4) 围棋SGF阅读器（iOS）
 
-象棋系列：
+#### 象棋系列
 
 (1) 象棋学士（打谱软件）(macOS、iOS)
 
@@ -36,9 +36,11 @@
 
 (4) 中国象棋PGN阅读器（iOS）
 
-五子棋系列：五子棋打谱软件（macOS）
+#### 五子棋系列
 
-国际象棋：
+五子棋打谱软件（macOS）
+
+#### 国际象棋
 
 (1) 国际象棋大亨（macOS）
 
@@ -48,11 +50,17 @@
 
 (4) 国际象棋水平测试（iOS）。
 
-扑克游戏：拖拉机。
+#### 扑克游戏
 
-记事本： 随身记事本、家庭理财记账等
+拖拉机（macOS），双升级（iOS）。
 
-娱乐： IPTV网络电视播放器 详情访问：[IPTV网络电视播放器技术支持网页](https://tvplayersupport.github.io/TVPlayerSupport/)。
+#### 记事本 
+
+随身记事本（macOS、iOS）、家庭理财记账（macOS、iOS）等
+
+#### 娱乐
+
+IPTV网络电视播放器 详情访问：[IPTV网络电视播放器技术支持网页](https://tvplayersupport.github.io/TVPlayerSupport/)。
 
 ### 苹果TV（tvOS） Apps
 
