@@ -88,10 +88,8 @@ IPTV网络电视播放器 详情访问：[IPTV网络电视播放器技术支持�
 
 ## (1) 桥牌做庄练习（Bridge Exercises）
 
-桥牌做庄练习(macOS)
 ![图标](BridgeExercises.png)  
 
-桥牌做庄练习全版(iOS)
 ![图标](bridgePlus.png)    
 
 包括 iOS, macOS 和 tvOS 三个版本。
