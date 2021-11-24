@@ -70,24 +70,6 @@ IPTV网络电视播放器 详情访问：[IPTV网络电视播放器技术支持�
 
 桥牌做庄练习，fast IPTV Player （IPTV网络电视播放器的tvOS版）
 
-### 安卓版 Apps
-
-我的安卓应用 (Google play App Store) 包括: 
-
-（1）桥牌训练馆，与iOS版本的桥牌做庄练习是一样的。
-
-（2）桥牌PBN阅读与制作器 (Bridge PBN Viewer and Maker)
-
-（3）围棋狗(打谱软件)，适合围棋打谱，自带棋谱库。
-
-（4）象棋学士，象棋打谱软件，自带棋谱库。
-
-（5）象棋杀法练习。
-
-（6）两副牌斗地主。
-
-（7）国际象棋PGN阅读器。
-
 ## (1) 桥牌做庄练习（Bridge Exercises）
 
 ![图标](BridgeExercises.png)  
